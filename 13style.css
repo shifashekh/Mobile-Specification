@@ -1,0 +1,26 @@
+#phone{
+    height: 880px;
+    width: 370px;
+    display: flex;
+    border: 2px black solid;
+
+}
+img{
+    height: 400px;
+    width: 370px;
+    background-size: cover;
+}
+h1{
+   text-align: center;
+}
+li{
+    color: black;
+    font-size: 16px;
+    text-align: left;
+
+}
+button{
+    background-color: rgb(70, 147, 234);
+    color: aliceblue;
+    padding: 10px 40px;
+}
